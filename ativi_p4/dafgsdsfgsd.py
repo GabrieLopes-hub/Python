@@ -1,0 +1,11 @@
+y=["terra","fogo","água","ar"]
+print(y[1])
+d=len(y)
+print(d)
+y.append("sangue")
+y.extend("magma")
+print(y)
+p=len(y[1])
+print(p)
+l=len(y)
+print(l)
